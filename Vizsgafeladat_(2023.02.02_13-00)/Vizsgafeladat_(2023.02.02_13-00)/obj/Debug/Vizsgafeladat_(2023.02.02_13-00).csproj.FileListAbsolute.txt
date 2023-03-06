@@ -1,0 +1,11 @@
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat_(2023.02.02_13-00).csproj.AssemblyReference.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat_(2023.02.02_13-00).csproj.SuggestedBindingRedirects.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat__2023._02._02_13_00_.Form1.resources
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat__2023._02._02_13_00_.Properties.Resources.resources
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat_(2023.02.02_13-00).csproj.GenerateResource.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat_(2023.02.02_13-00).csproj.CoreCompileInputs.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\bin\Debug\Vizsgafeladat_(2023.02.02_13-00).exe.config
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\bin\Debug\Vizsgafeladat_(2023.02.02_13-00).exe
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\bin\Debug\Vizsgafeladat_(2023.02.02_13-00).pdb
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat_(2023.02.02_13-00).exe
+C:\Users\György\Desktop\Vizsgafeladat_(2023.02.02_13-00)\Vizsgafeladat_(2023.02.02_13-00)\obj\Debug\Vizsgafeladat_(2023.02.02_13-00).pdb

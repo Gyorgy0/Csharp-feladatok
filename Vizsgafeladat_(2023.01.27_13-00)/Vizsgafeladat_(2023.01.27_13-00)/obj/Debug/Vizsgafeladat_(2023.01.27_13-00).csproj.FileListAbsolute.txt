@@ -1,0 +1,14 @@
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\bin\Debug\Vizsgafeladat_(2023.01.27_13-00).exe.config
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\bin\Debug\Vizsgafeladat_(2023.01.27_13-00).exe
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\bin\Debug\Vizsgafeladat_(2023.01.27_13-00).pdb
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).csproj.AssemblyReference.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).csproj.SuggestedBindingRedirects.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat__2023._01._27_13_00_.Form1.resources
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat__2023._01._27_13_00_.Properties.Resources.resources
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).csproj.GenerateResource.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).csproj.CoreCompileInputs.cache
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).exe
+C:\Users\György\Desktop\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).pdb
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).csproj.AssemblyReference.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).exe
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Vizsgafeladat_(2023.01.27_13-00)\Vizsgafeladat_(2023.01.27_13-00)\obj\Debug\Vizsgafeladat_(2023.01.27_13-00).pdb
