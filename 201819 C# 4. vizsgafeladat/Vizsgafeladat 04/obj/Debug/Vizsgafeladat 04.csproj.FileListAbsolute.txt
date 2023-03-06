@@ -1,0 +1,22 @@
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\bin\Debug\Vizsgafeladat 04.exe.config
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\bin\Debug\Vizsgafeladat 04.exe
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\bin\Debug\Vizsgafeladat 04.pdb
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.AssemblyReference.cache
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.SuggestedBindingRedirects.cache
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat_04.Form1.resources
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat_04.Properties.Resources.resources
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.GenerateResource.cache
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.CoreCompileInputs.cache
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.exe
+C:\Users\György\Desktop\WindowsForms\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.pdb
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\bin\Debug\Vizsgafeladat 04.exe.config
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\bin\Debug\Vizsgafeladat 04.exe
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\bin\Debug\Vizsgafeladat 04.pdb
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.AssemblyReference.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.SuggestedBindingRedirects.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat_04.Form1.resources
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat_04.Properties.Resources.resources
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.GenerateResource.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.csproj.CoreCompileInputs.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.exe
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\201819 C# 4. vizsgafeladat\Vizsgafeladat 04\obj\Debug\Vizsgafeladat 04.pdb
