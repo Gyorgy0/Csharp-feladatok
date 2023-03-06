@@ -1,0 +1,22 @@
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\György\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Egyetemi dolgok\2. évfolyam - téli szemeszter\PR3 - Programozás 3 - Programozás Windows OR alatt\Vizsgafeladatok\Prog3 vizsga (2023.01.12.)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
